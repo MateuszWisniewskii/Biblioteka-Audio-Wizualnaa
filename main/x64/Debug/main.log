@@ -1,0 +1,12 @@
+﻿  Biblioteka.cpp
+D:\Laby z PK\f57e0b9a-gr12-repo\Projekt\projekt\main\Biblioteka.cpp(236,9): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Laby z PK\f57e0b9a-gr12-repo\Projekt\projekt\main\Biblioteka.cpp(255,9): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Laby z PK\f57e0b9a-gr12-repo\Projekt\projekt\main\Biblioteka.cpp(274,9): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  main.cpp
+  Nosnik.cpp
+  Nosnikaudio.cpp
+  Nosnikpapierowy.cpp
+  Nosnikwideo.cpp
+  Szafka.cpp
+  Generowanie kodu...
+  main.vcxproj -> D:\Laby z PK\f57e0b9a-gr12-repo\Projekt\projekt\x64\Debug\main.exe
